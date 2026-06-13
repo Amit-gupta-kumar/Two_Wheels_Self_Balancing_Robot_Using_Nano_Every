@@ -35,7 +35,7 @@ Hi all!
 This is the Two Wheels Self Balancing Robot based on modified/extended MultiWii firmware.
 
 Video: 
-http://youtu.be/U8bBna9iWCU
+[http://youtu.be/U8bBna9iWCU](https://www.youtube.com/watch?v=wBesIeUgxF4)
 
 
 Hardware:
