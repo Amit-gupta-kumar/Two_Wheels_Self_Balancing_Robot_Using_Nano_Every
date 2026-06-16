@@ -47,12 +47,16 @@ https://www.youtube.com/watch?v=wBesIeUgxF4
 ==========================================
 
 ### Project Work Pics
+<div>
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.20%20PM%20(1).jpeg" width="320">
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.21%20PM%20(1).jpeg" width="320">
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.20%20PM.jpeg" width="320">
+ </div>
+ <div>
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.21%20PM.jpeg" width="320">
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.20%20PM%20(2).jpeg" width="320">
 <img src="https://github.com/Amit-gupta-kumar/Two_Wheels_Self_Balancing_Robot_Using_Nano_Every/blob/main/project%20pic/WhatsApp%20Image%202026-06-15%20at%2012.19.19%20PM.jpeg" width="320">
+</div>
 
 ==============================
 ### Thank You for Visiting :)
